@@ -1,4 +1,5 @@
 <?php
+////erwerewrwerw
 namespace MyCompanyNamespace;
 
 class SuperLogger
